@@ -1,8 +1,8 @@
-# brew_crew
+# Coffee_management app
 
 A new Flutter project.
 
-## Getting Started
+## Getting Started With firebase
 
 This project is a starting point while we are working on email authentiation as well as making model and passing that data to firebase and can perform CRUD operation on the data and also we can come to know about how to validate form and then update data.
 
